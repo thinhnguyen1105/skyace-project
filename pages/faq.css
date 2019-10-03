@@ -1,0 +1,84 @@
+#faq-content .ant-collapse-header {
+background: #262626;
+color: #fff;
+font-family: 'Raleway', sans-serif;
+font-weight: 600;
+font-size: 16px;
+}
+
+#faq-content .ant-collapse > .ant-collapse-item {
+  border: none;
+}
+
+#faq-content .ant-collapse {
+  border: none;
+}
+
+#faq-content .ant-collapse-content-box {
+  background: #262626;
+  color: #fff;
+font-family: 'Raleway', sans-serif;
+font-weight: 300;
+font-size: 14px;
+}
+
+#faq-content .ant-tabs-nav .ant-tabs-tab {
+  font-size: 15px;
+  font-weight: 600;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  color: #fff;
+}
+
+#faq-content .ant-tabs-nav .ant-tabs-tab-active {
+  font-size: 15px;
+  font-weight: 600;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  color: #fff;
+}
+
+#faq-content .ant-tabs-nav-wrap {
+  text-align: center;
+}
+
+#faq-content .ant-tabs-tabpane-active>.ant-tabs-tab {
+  color: #fff;
+}
+
+#faq-content .ant-tabs-bar {
+  border: none;
+} 
+
+#faq-content h1 {
+  font-size: 60px;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+  padding-top: 100px;
+  margin-bottom: 0px;
+}
+
+.wrapper {
+  width: 100%;
+  padding: 0px 50px;
+  word-break: break-word;
+}
+
+/* @media only screen and (max-width: 760px){
+  .wrapper {
+    width: 500px;
+}
+}
+
+@media only screen and (min-width: 1023px) {
+  .wrapper {
+    width: 740px;
+}
+}
+
+@media only screen and (min-width: 400px){
+  .wrapper {
+    width: 300px;
+}
+} */

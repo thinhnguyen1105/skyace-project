@@ -1,0 +1,87 @@
+@media only screen and (max-width: 1562px) {
+  .ant-table-thead > tr > th,
+  .ant-table-tbody > tr > td {
+    word-break: unset !important;
+  }
+}
+
+.fuckingSelect::before,
+.fuckingSelect::after {
+  display: inline !important;
+}
+
+.rbc-toolbar button:focus {
+  outline: none;
+}
+.demo-class__container {
+  margin-top: 40px;
+}
+.text-danger {
+  color: red;
+}
+.text-center {
+  text-align: center;
+}
+.demo-class__start-button {
+  position: absolute;
+  right: 40px;
+}
+.headline-wrapper {
+  width: 100%;
+  background-color: #DFECF6;
+  display: flex;
+  align-items: center;
+  min-height: 100px;
+  padding: 20px 10px;
+}
+.headline-wrapper .search-form-container {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+.headline-wrapper .search-form-container .search-form {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+.headline-wrapper .search-form-container .ant-form-item {
+  margin-right: 0px !important;
+}
+.headline-wrapper .search-form-container .ant-btn-icon-only {
+  background: #ddd;
+  color: black;
+}
+.headline-wrapper .search-form-container .ant-btn-icon-only i {
+  font-weight: bold;
+}
+.headline-wrapper .button-container {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: flex-end;
+}
+.headline-wrapper .button-container__button {
+  margin: 0px 20px;
+  min-width: 100px;
+}
+.option-wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin: 0px 20px;
+  margin-bottom: 20px;
+}
+.option-wrapper__pagination-option-wrapper {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+.option-wrapper__other-option-wrapper {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  padding-right: 20px;
+}
+.option-wrapper__other-option-wrapper__select-box {
+  margin: 0px 20px;
+}

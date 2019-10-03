@@ -1,0 +1,31 @@
+.button-go-to-tuition {
+  text-align: right;
+}
+
+.button-extend-tuition {
+  margin-right: 15px;
+  width: 160px;
+  background: #f5222d;
+  border: #f5222d;
+}
+
+.button-go-to-tuition-detail {
+  width: 160px;
+}
+
+@media only screen and (max-width: 1136px) {
+  .button-extend-tuition {
+    margin-bottom: 10px;
+    margin-right: 0px !important;
+
+    background: #f5222d;
+    border: #f5222d;
+  }
+}
+
+@media only screen and (max-width: 763px) {
+  .button-go-to-tuition {
+    text-align: left;
+    margin-top: 15px;
+  }
+}

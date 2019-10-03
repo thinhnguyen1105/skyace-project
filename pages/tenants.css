@@ -1,0 +1,26 @@
+.tenants-page {
+  background-color: white;
+  margin: 30px;
+}
+
+.add-new-teacher-form .ant-form-item {
+  margin-bottom: 3px;
+}
+
+.tenants-filter {
+  width: 100%;
+}
+
+.add,
+.refresh {
+  padding: 12px 0;
+  margin-right: 10px;
+}
+
+.tenants-table {
+  width: 100%;
+}
+
+.button-flex {
+  display: flex;
+}

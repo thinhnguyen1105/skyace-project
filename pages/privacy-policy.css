@@ -1,0 +1,54 @@
+#privacy-policy h1 {
+  font-size: 50px;
+  font-weight: 400;
+  color: #fff;
+}
+
+#privacy-policy h3 {
+  font-size: 35px;
+  font-weight: 400;
+  color: #fff;
+}
+
+#privacy-policy p {
+  font-family: 'Raleway', sans-serif;
+  word-wrap: break-word;
+}
+/* 
+@media only screen and (max-width: 760px){
+  .wrapper {
+    width: 500px;
+}
+}
+
+@media only screen and (min-width: 400px){
+  .wrapper {
+    width: 300px;
+}
+}
+
+@media only screen and (min-width: 1023px) {
+  .wrapper {
+    width: 740px;
+}
+} */
+
+.section-title {
+  text-align: center;
+  margin-top: -10px;
+  margin-bottom: 100px;
+}
+
+.column-section {
+  margin-top: 60px;
+  margin-left: -30px;
+}
+.align-justify {
+  text-align: justify;
+}
+
+.wrapper {
+  width: 100%;
+  padding: 0px 50px;
+  word-break: break-word;
+}

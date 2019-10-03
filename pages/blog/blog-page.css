@@ -1,0 +1,15 @@
+.blog-page {
+  background-color: white;
+  margin: 30px;
+}
+.radio-button {
+  width: 95%;
+  margin: 0 auto;
+  padding: 12px 0;
+  text-align: center;
+}
+.view-create-blog {
+  width: 95%;
+  margin: 0 auto;
+  padding: 12px 0;
+}

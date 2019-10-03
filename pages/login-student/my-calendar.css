@@ -1,0 +1,22 @@
+.student-calendar .rbc-events-container {
+  width: 100% !important;
+}
+
+.student-calendar .rbc-event {
+  left: 0 !important;
+  width: 100% !important;
+}
+
+.student-calendar .rbc-event-label {
+  overflow: auto !important;
+  white-space: normal !important;
+}
+.rbc-time-view .rbc-row {
+  min-height: 0px;
+}
+/* .rbc-time-header.rbc-overflowing {
+  margin-right: -1px !important;
+} */
+.rbc-allday-cell {
+  display: none !important;
+}

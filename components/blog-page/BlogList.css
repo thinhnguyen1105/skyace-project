@@ -1,0 +1,27 @@
+.list-post-wrapper{
+  margin-top: 10px;
+}
+.content-div {
+  overflow: scroll;
+  width: 100%;
+  height: 30vh;
+}
+.activation-status-tag{
+  position: relative;
+}
+.list-item-meta{
+  float:left;
+}
+.avatar-div {
+  margin-top: 50%;
+  transform: translate(0, -50%);
+}
+
+.card-content {
+  margin-top: 10vh;
+}
+
+.btn-filter-deactivated-post{
+  position: relative;
+  float: right;
+}

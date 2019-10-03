@@ -1,0 +1,22 @@
+.two-col-parallel {
+  padding: 20;
+  background: '#ffff';
+}
+
+.barel {
+  width: '100%' !important;
+  padding: '20px' !important;
+  background: '#ffffff' !important;
+}
+
+.margin-bottom-large {
+  margin-bottom: 20px;
+}
+
+.margin-bottom-small {
+  margin-bottom: 10px;
+}
+
+.align-horizontal-text {
+  margin-top: 5px;
+}

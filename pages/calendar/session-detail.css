@@ -1,0 +1,26 @@
+.ant-modal-footer button+button {
+  margin-left: 8px;
+  margin-bottom: 13px;
+  margin-right: 8px;
+}
+
+.ant-modal-footer {
+  display: flex;
+  margin-top: 5px;
+}
+
+.ant-modal-footer div {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-top: 10px;
+}
+.rbc-time-view .rbc-row {
+  min-height: 0px;
+}
+
+/* .rbc-time-header.rbc-overflowing {
+  margin-right: -1px;
+} */
+.rbc-allday-cell {
+  display: none !important;
+}

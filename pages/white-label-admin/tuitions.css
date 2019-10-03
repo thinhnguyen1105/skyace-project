@@ -1,0 +1,22 @@
+.tuitions-page {
+  background-color: white;
+  margin: 30px;
+}
+
+.tuitions-filter {
+  margin: 0 auto;
+  padding: 12px 0;
+}
+
+.add, .refresh {
+  padding: 12px 0;
+  margin-right: 10px;
+}
+
+.tuitions-table {
+  margin: 0 auto;
+}
+
+.button-flex {
+  display: flex;
+}

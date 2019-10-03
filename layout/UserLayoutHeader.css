@@ -1,0 +1,35 @@
+@media screen and (max-width: 650px) {
+  .responsive-big-menu {
+    display: none !important;
+  }
+}
+
+@media screen and (min-width: 651px) {
+  .responsive-hamburger-menu {
+    display: none !important;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .responsiveLayout {
+    width: 1600px;
+  }
+}
+
+@media screen and (max-width: 1600px) {
+  .responsiveLayout {
+    width: 98%;
+  }
+}
+
+.noti-list {
+  width: 360px;
+  height: 400px;
+  overflow-y: scroll;
+}
+
+.unseen-noti .noti-list {
+  width: auto;
+  height: auto;
+  overflow-y: scroll;
+}

@@ -1,0 +1,14 @@
+.custom-calendar .rbc-time-header-gutter {
+  width: 49.7188px !important;
+}
+
+.rbc-time-view .rbc-row {
+  min-height: 0px;
+}
+
+/* .rbc-time-header.rbc-overflowing {
+  margin-right: -1px;
+} */
+.rbc-allday-cell {
+  display: none !important;
+}

@@ -1,0 +1,197 @@
+.rbc-events-container {
+  width: 100% !important;
+}
+
+.rbc-event {
+  left: 0 !important;
+  width: 100% !important;
+}
+
+.rbc-event-label {
+  overflow: auto !important;
+  white-space: normal !important;
+}
+
+.ant-card-grid:hover {
+  background: #1890ff;
+  color: #ffffff;
+}
+
+.ant-input-search input::placeholder {
+  text-overflow: ellipsis;
+}
+
+.filter-button {
+  display: inline-block;
+  width: 120px;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  border-radius: 3px;
+  box-shadow: 1px 0px 1px 0px #ccc;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 1000px) {
+  .responsive-layout {
+    padding: 50px;
+  }
+
+  .responsive-content {
+    padding: 0px 30px 0px 30px;
+  }
+}
+
+@media screen and (min-width : 951px) {
+  .responsive-layout {
+    padding: 30px;
+  }
+
+  .responsive-content {
+    padding: 0px 20px;
+  }
+
+  .responsive-title {
+    font-size: 34px;
+  }
+
+  .responsive-sort-option-container__small-screen {
+    display: none;
+  }
+
+  .responsive-flags-container {
+    margin: 0px 20px;
+  }
+}
+
+@media screen and (max-width : 950px) {
+  .responsive-layout {
+    padding: 10px;
+  }
+
+  .responsive-content {
+    padding: 0px 10px;
+  }
+
+  .responsive-title {
+    font-size: 24px;
+  }
+
+  .responsive-sort-option-container {
+    display: none;
+  }
+
+  .responsive-flags-container {
+    margin: 0px 10px;
+  }
+
+  .responsive-ratings-on-desktop {
+    display: none !important;
+  }
+}
+
+.responsive-course-option {
+  margin: 10px 0px;
+}
+
+.custom-slider .ant-slider {
+  margin-top: 0px;
+}
+
+.hide-options {
+  display: none;
+}
+
+.show-options {
+  display: block;
+}
+
+.label {
+  margin-top: 10px;
+}
+
+.available-label {
+  width: 100%;
+  height: 20px;
+  background: #44FF55;
+  border-radius: 5px;
+
+}
+
+.not-available-label {
+  width: 100%;
+  height: 20px;
+  background: #FFFFFF;
+  border-radius: 5px;
+  border: 1px solid;
+}
+
+.booked-by-student-label {
+  width: 100%;
+  height: 20px;
+  background: #AAAAAA;
+  border-radius: 5px;
+}
+
+.group-tuition-label {
+  width: 100%;
+  height: 20px;
+  background: #FF6666;
+  border-radius: 5px;
+}
+
+.blocked-for-group-tuition-label {
+  width: 100%;
+  height: 20px;
+  background: #FFAAAA;
+  border-radius: 5px;
+}
+
+.currently-on-hold-label {
+  width: 100%;
+  height: 20px;
+  background: #ECECEC;
+  border-radius: 5px;
+}
+
+.your-selection-label {
+  width: 100%;
+  height: 20px;
+  background: #44AAFF;
+  border-radius: 5px;
+}
+
+.your-others-booking-label {
+  width: 100%;
+  height: 20px;
+  background: #FFDD88;
+  border-radius: 5px;
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+.rating-user-avatar {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.rbc-time-header.rbc-overflowing {
+  border-right: none !important;
+}
+
+.active-scroll-link {
+  color: #1890ff !important;
+}
+
+.rbc-time-view .rbc-row {
+  min-height: 0px;
+}
+/* 
+.rbc-time-header.rbc-overflowing {
+  margin-right: -1px;
+} */
+.rbc-allday-cell {
+  display: none !important;
+}

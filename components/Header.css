@@ -1,0 +1,58 @@
+.menu-item {
+    color: #fff;
+    font-family: 'Open Sans';
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 60px;
+}
+
+.home-page > .ant-row > .ant-layout-header {
+    padding: 0px 20px;
+}
+
+.menu-item-black {
+    color: #fff;
+    font-family: 'Open Sans';
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 60px;
+}
+
+::placeholder{
+  text-overflow:ellipsis;
+}
+
+.responsive-toggle-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+@media screen and (max-width: 1000px) {
+  .responsive-toggle-option {
+    margin-top: 10px;
+  }
+  .responsive-toggle-container {
+    display: flex;
+    justify-content: center;;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .responsive-login-option {
+    margin-top: 10px;
+  }
+}
+
+/* These two CSSs below were to prevent zoom bug on Skyace */
+.header-menu__prevent-zoom-bug .ant-menu-overflowed-submenu {
+  display: none !important;
+}
+
+.header-menu__prevent-zoom-bug .ant-menu-item {
+  visibility: visible !important;
+  display: inline-block !important;
+}
+
+.custom-animated-header {
+  transition: all 0.5s ease-in-out;
+}

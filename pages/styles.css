@@ -1,0 +1,38 @@
+@media only screen and (max-width: 1562px) {
+    .ant-table-thead>tr>th,
+    .ant-table-tbody>tr>td {
+        word-break: unset !important;
+    }
+}
+
+@media only screen and (max-width: 1267px) {
+    .form-responsive {
+        margin-top: 100px !important;
+    }
+}
+
+.form-responsive {
+    padding: 20px;
+    margin-top: 0px;
+}
+
+.rbc-toolbar button:focus {
+    outline: none;
+}
+
+.demo-class__container {
+    margin-top: 40px;
+}
+
+.text-danger {
+    color: red;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.demo-class__start-button {
+    position: absolute;
+    right: 40px;
+}

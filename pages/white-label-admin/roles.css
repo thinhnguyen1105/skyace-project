@@ -1,0 +1,22 @@
+.roles-page {
+  background-color: white;
+  margin: 30px;
+}
+
+.roles-filter {
+  margin: 0 auto;
+  padding: 12px 0;
+}
+
+.add, .refresh {
+  padding: 12px 0;
+  margin-right: 10px;
+}
+
+.roles-table {
+  margin: 0 auto;
+}
+
+.button-flex {
+  display: flex;
+}

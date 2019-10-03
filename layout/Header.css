@@ -1,0 +1,13 @@
+@media screen and (max-width: 650px){
+  .responsive-display-name {
+    display: none;
+  }
+}
+
+.ant-dropdown {
+  z-index: 20 !important;
+}
+
+.enjoy_hint_label {
+  color: #16dafd !important;
+}
