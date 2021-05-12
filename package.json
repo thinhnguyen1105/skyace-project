@@ -79,7 +79,7 @@
     "node-cron": "^1.2.1",
     "node-xlsx": "^0.12.1",
     "nodeice": "^3.0.9",
-    "nodemailer": "^4.6.7",
+    "nodemailer": "^6.4.16",
     "qs": "^6.5.2",
     "react": "^16.4.1",
     "react-avatar-editor": "^11.0.4",
