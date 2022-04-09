@@ -69,7 +69,7 @@
     "kue": "^0.11.6",
     "log4js": "^3.0.2",
     "messagebird": "^2.2.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "moment-range": "^4.0.1",
     "mongoosastic": "^4.4.1",
     "mongoose": "^5.2.2",
