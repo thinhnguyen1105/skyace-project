@@ -63,7 +63,7 @@
     "jquery": "^3.3.1",
     "js-cookie": "^2.2.0",
     "js-sha1": "^0.6.0",
-    "jsdom": "^13.1.0",
+    "jsdom": "^16.5.0",
     "jsonwebtoken": "^8.3.0",
     "jwt-decode": "^2.2.0",
     "kue": "^0.11.6",
