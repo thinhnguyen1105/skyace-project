@@ -80,7 +80,7 @@
     "node-xlsx": "^0.12.1",
     "nodeice": "^3.0.9",
     "nodemailer": "^4.6.7",
-    "qs": "^6.5.2",
+    "qs": "^6.5.3",
     "react": "^16.4.1",
     "react-avatar-editor": "^11.0.4",
     "react-big-calendar": "^0.19.2",
