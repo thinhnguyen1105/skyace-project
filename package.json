@@ -56,7 +56,7 @@
     "ejs": "^2.6.1",
     "elasticsearch": "^15.1.1",
     "enjoyhint": "^1.0.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "firebase": "^5.5.1",
     "isomorphic-fetch": "^2.2.1",
     "joi": "^13.4.0",
